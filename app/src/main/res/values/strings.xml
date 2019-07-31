@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AsteroidsGL</string>
+    <string name="score">SCORE: </string>
+    <string name="health">HEALTH: </string>
+    <string name="level">LEVEL: </string>
+    <string name="fps">FPS: </string>
+    <string name="gameOver">Game Over!</string>
+    <string name="hyperspace">Hyperspace:</string>
+</resources>
